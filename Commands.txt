@@ -1,0 +1,33 @@
+10	Kingston	17.9714	-76.7931	Jamaica		JM	580000
+10	Montego_Bay	18.4667	-77.9167	Jamaica		JM	97890
+10	Bridgetown	13.0969	-59.6131	Barbados	BB	110000
+10	Georgetown	6.8011	-58.155		Guyana		GY	235017
+10	Caracas		10.4806	-66.9036	Venezuela	VE	3242000
+10	Maracaibo	10.6333	-71.6333	Venezuela	VE	2658355
+
+11	Cairo
+11    	Kingston
+11	Caracas
+
+11	Saskatoon
+
+13
+
+12	Copenhagen
+
+13
+
+10	Copenhagen	55.6805	12.5615		Denmark		DK	1366301
+
+11	Copenhagen
+
+12	Kamloops
+
+10	Bridgetown	13.0969	-59.6131	Barbados	BB	110000
+
+13
+
+11	Istanbul
+
+99
+  
